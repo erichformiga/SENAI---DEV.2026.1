@@ -131,7 +131,7 @@ Um **repositório** (ou "repo") é como uma pasta especial no GitHub onde seu pr
 | **Repository name**  | Nome do seu projeto (ex: `meu-site`, `calculadora`)      |
 | **Description**      | Uma frase descrevendo o projeto (opcional)               |
 | **Public / Private** | `Public` = qualquer um vê / `Private` = só você vê       |
-| **Add a README**     | ❌ Deixe **desmarcado** (vamos enviar nossos arquivos!)  
+| **Add a README**     | ❌ Deixe **desmarcado** (vamos enviar nossos arquivos!)  |
 ```
 4. Clique em **Create repository** 🚀
 
