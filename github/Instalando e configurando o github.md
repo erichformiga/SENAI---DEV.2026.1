@@ -125,14 +125,14 @@ Um **repositório** (ou "repo") é como uma pasta especial no GitHub onde seu pr
 1. Acesse **https://github.com** e faça login
 2. Clique no botão verde **New** (ou no `+` no canto superior direito → `New repository`)
 3. Preencha as informações:
-
+```bash
 |          Campo       |                      O que colocar                       |
 +----------------------+----------------------------------------------------------+
 | **Repository name**  | Nome do seu projeto (ex: `meu-site`, `calculadora`)      |
 | **Description**      | Uma frase descrevendo o projeto (opcional)               |
 | **Public / Private** | `Public` = qualquer um vê / `Private` = só você vê       |
 | **Add a README**     | ❌ Deixe **desmarcado** (vamos enviar nossos arquivos!)  
-
+```
 4. Clique em **Create repository** 🚀
 
 Após criar, o GitHub vai mostrar uma página com instruções. Não feche essa aba! Vamos precisar dela.
@@ -240,14 +240,14 @@ git push
 ```
 
 ### Dicas para mensagens de commit 📝
-
+```bash
 | ❌ Mensagem ruim |            ✅ Mensagem boa            |
 |-------------------+---------------------------------------+
 | `commit`          | `Corrige bug no login`                |
 | `mudancas`        | `Adiciona página de contato`          |
 | `arrumei`         | `Melhora responsividade no mobile`    |
 | `aaa`             | `Remove função duplicada no carrinho` |
-
+```
 > 💡 Uma boa mensagem responde: **"O que esse commit faz?"**
 
 ---
@@ -314,7 +314,7 @@ Continua em casa!
 ---
 
 ## 📋 Resumo dos comandos essenciais
-
+```bash
 |        Comando        |            O que faz          |            Quando usar            |
 |-----------------------+-------------------------------+---------------------------------- +
 | `git init`            | Inicializa o Git na pasta     | Apenas uma vez, no início         |
@@ -326,7 +326,7 @@ Continua em casa!
 | `git pull`            | Baixa atualizações do GitHub  | Ao começar a trabalhar em novo PC |
 | `git clone URL`       | Baixa o repositório completo  | Primeira vez em um PC novo        |
 | `git log`             | Mostra o histórico de commits | Para ver o passado do projeto     |
-
+```
 ---
 
 ## 🏆 Fluxo completo — Do zero ao GitHub
