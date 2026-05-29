@@ -45,13 +45,13 @@ Abra o arquivo baixado (algo como `Git-2.xx.x-64-bit.exe`) e siga os passos:
 > 💡 **Dica:** Pode clicar em **Next** em todas as telas sem medo. As configurações padrão já são ótimas para iniciantes!
 
 As únicas telas que merecem atenção:
-
+```bash
 |                     Tela                     |                           O que fazer                        |
 +----------------------------------------------+--------------------------------------------------------------+
 | **Choosing the default editor**              | Selecione `Use Visual Studio Code as Git's default editor`   |
 | **Adjusting the name of the initial branch** | Selecione `Override the default branch name` e digite `main` |
 | Todas as outras                              | Pode deixar o padrão e clicar **Next**                       |
-
+```
 ### Passo 3 — Verificar a instalação
 
 Abra o **Prompt de Comando** (pressione `Win + R`, digite `cmd` e Enter) e digite:
